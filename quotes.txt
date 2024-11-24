@@ -13,5 +13,3 @@ Avoid administrative distraction
 Design for failure
 Keep it logically awesome
 something so bright won't always burn you
-hello world
-what to say
